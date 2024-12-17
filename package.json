@@ -1,0 +1,23 @@
+{
+  "name": "question_answer_forum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DestawBerie/Question_Answer_Forum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DestawBerie/Question_Answer_Forum/issues"
+  },
+  "homepage": "https://github.com/DestawBerie/Question_Answer_Forum#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5"
+  }
+}
