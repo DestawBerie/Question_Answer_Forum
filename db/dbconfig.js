@@ -8,9 +8,9 @@ const dbconnection = mysql2.createPool({
 });
 //dbconnection.execute("select 'test'", (err, result) => {
 //if (err) {
-//  console.log(err.message);
+//console.log(err.message);
 //} else {
-//  console.log(result);
+//console.log(result);
 //}
 //});
 module.exports = dbconnection.promise();
